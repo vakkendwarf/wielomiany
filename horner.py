@@ -1,7 +1,7 @@
-def horner(x, *arguments):
+def horner_odejmij(x, *arguments):
 
         """
-        horner(dwumian, 1szy czynnik wielomianu, 2gi czynnik, 3ci czynnik ... n czynnik)
+        horner_odejmij(dwumian, 1szy czynnik wielomianu, 2gi czynnik, 3ci czynnik ... n czynnik)
 
         Zwraca różnicę dwumianu i wielomianu.
         """
