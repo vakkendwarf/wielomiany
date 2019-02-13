@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361acf67-bc77-4362-afaa-800810b0b268" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/horner.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/superhorner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing_grounds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing_grounds2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/wielomiany.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wielomiany.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/horner.py" beforeDir="false" afterPath="$PROJECT_DIR$/horner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/horner.log" beforeDir="false" afterPath="$PROJECT_DIR$/horner.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superhorner.py" beforeDir="false" afterPath="$PROJECT_DIR$/superhorner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +20,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5029833">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/superhorner.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="163" column="72" lean-forward="true" selection-start-line="163" selection-start-column="72" selection-end-line="163" selection-end-column="72" />
+                <state relative-caret-position="204">
+                  <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
                 </state>
               </provider>
             </entry>
@@ -45,7 +38,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/testing_grounds2.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="306">
@@ -295,12 +288,12 @@
     <frame x="-5" y="1" width="1926" height="1035" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11322752" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11322752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33480662" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33480662" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39957264" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,10 +341,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/superhorner.py">
+    <entry file="file://$PROJECT_DIR$/testing_grounds2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="163" column="72" lean-forward="true" selection-start-line="163" selection-start-column="72" selection-end-line="163" selection-end-column="72" />
+        <state relative-caret-position="306">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -362,10 +355,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testing_grounds2.py">
+    <entry file="file://$PROJECT_DIR$/superhorner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        <state relative-caret-position="204">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
         </state>
       </provider>
     </entry>

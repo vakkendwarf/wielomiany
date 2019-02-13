@@ -1,5 +1,8 @@
 import logging
 
+with open('horner.log', 'w'):
+    pass
+
 logging.basicConfig(filename='horner.log',level=logging.DEBUG)
 
 class Jednomian:
